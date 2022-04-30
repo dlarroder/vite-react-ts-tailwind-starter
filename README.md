@@ -1,6 +1,7 @@
 ## Features
 
-- ⚡️ [React 18](https://beta.reactjs.org/)
+- ⚡️ [Vite](https://vitejs.dev/)
+- ⚛ [React 18](https://beta.reactjs.org/)
 - 🦾 [TypeScript](https://www.typescriptlang.org/), of course
 - 🫀 [Jest](https://jestjs.io/) - unitary testing made easy
 - 🎨 [Tailwind with JIT](https://tailwindcss.com/) - next generation utility-first CSS
